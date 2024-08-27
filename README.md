@@ -13,4 +13,18 @@
 
 ### For Hierarchal clustering of samples
 1) Pheatmap https://github.com/raivokolde/pheatmap. Tutorial for Pheatmap https://biostatsquid.com/step-by-step-heatmap-tutorial-with-pheatmap/
-2) 
+
+## For CNV
+1) InferCNV https://github.com/broadinstitute/inferCNV/wiki
+2) Cell malignancy status scCancer https://github.com/wguo-research/scCancer
+
+
+### For Pseudotime analysis
+1) Monocle2 https://bioconductor.org/packages/release/bioc/html/monocle.html. Tutorial https://cole-trapnell-lab.github.io/monocle-release/docs/#installing-monocle
+2) RNAvelocity with velocyto package https://velocyto.org/
+
+### For Cell State 
+1) CytoTRACE https://github.com/digitalcytometry/cytotrace2 https://cytotrace.stanford.edu/
+
+
+
