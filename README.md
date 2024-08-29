@@ -1,6 +1,6 @@
 # List of software used for different analyses in scRNA-seq
 ### Details of the various analyses in scRNA-seq 
-1)CHapter discussing about the various analyses for scRNA-seq https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/monocle2.html
+1)CHapter discussing about the various analyses for scRNA-seq (https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/)
 
 
 ### For TF analysis
