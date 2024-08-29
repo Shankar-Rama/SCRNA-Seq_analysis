@@ -1,4 +1,8 @@
 # List of software used for different analyses in scRNA-seq
+### Details of the various analyses in scRNA-seq 
+1)CHapter discussing about the various analyses for scRNA-seq https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/monocle2.html
+
+
 ### For TF analysis
 1) SCENIC (Single-Cell rEgulatory Network Inference and Clustering) is a computational method to infer Gene Regulatory Networks and cell types from single-cell RNA-seq data. https://github.com/aertslab/SCENIC
 
